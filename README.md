@@ -19,3 +19,4 @@ Using data from the OpenWeatherMap API, the app pulls weather information from t
 
 The app also offers an interactive, user-friendly interface with icons that reflect the weather conditions, so you’ll know exactly what to expect when you step outside.
 ##output
+![Image](https://github.com/user-attachments/assets/2089c253-ca84-4ca4-baa9-a40bed233a87)
